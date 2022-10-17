@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.choucair.certification.retoTecnico.runners.RegistroUsuario" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-U2GSIHD" time="0.0">
+  <properties/>
+  <system-out><![CDATA[18:51:52.460 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\pc-user\IdeaProjects\retoTecnico\serenity.properties 
+18:51:54.132 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\pc-user\IdeaProjects\retoTecnico\serenity.properties 
+18:51:54.141 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\pc-user\IdeaProjects\retoTecnico\serenity.properties 
+18:51:54.280 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+18:51:54.282 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=chromedriver
+18:51:54.282 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.test.root=com.certification.retoTecnico.stepdefinitions 
+18:51:54.283 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=RegistroUsuario
+18:51:57.572 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\pc-user\IdeaProjects\retoTecnico\serenity.properties 
+18:51:57.857 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\pc-user\IdeaProjects\retoTecnico\serenity.properties 
+18:51:57.872 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\pc-user\IdeaProjects\retoTecnico\serenity.properties 
+18:51:57.882 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+18:51:57.895 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=chromedriver
+18:51:57.909 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.test.root=com.certification.retoTecnico.stepdefinitions 
+18:51:57.914 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.project.name=RegistroUsuario
+18:51:58.046 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Rocket Chat at https://serenity-bdd.rocket.chat      
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+ Learn Serenity BDD online at http://serenity-dojo.com                               
+-------------------------------------------------------------------------------------
+
+18:51:58.111 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@bdeef751
+18:51:58.121 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - Test Suite Started: Registrar usuario en la pagina de Utest
+18:51:58.699 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+ _____ _____ ____ _____   ____ _____  _    ____ _____ _____ ____  
+|_   _| ____/ ___|_   _| / ___|_   _|/ \  |  _ \_   _| ____|  _ \ 
+  | | |  _| \___ \ | |   \___ \ | | / _ \ | |_) || | |  _| | | | |
+  | | | |___ ___) || |    ___) || |/ ___ \|  _ < | | | |___| |_| |
+  |_| |_____|____/ |_|   |____/ |_/_/   \_\_| \_\|_| |_____|____/ 
+                                                                  
+
+TEST STARTED: Registro de Sabina en la pagina de Utest
+-------------------------------------------------------------------(registrar-usuario-en-la-pagina-de-utest;registro-de-sabina-en-la-pagina-de-utest)
+18:51:59.340 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+18:51:59.342 [Test worker] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+18:52:00.679 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+18:52:01.992 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+18:52:02.109 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@4b6166aa
+18:52:02.124 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest
+18:52:02.126 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@4b6166aa: Generating report for test outcome: Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest
+18:52:02.230 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for Registro de Sabina en la pagina de Utest to file C:\Users\pc-user\IdeaProjects\retoTecnico\target\site\serenity\eb6df8d3a5056f75dc1f01728a9a1a6c3215637d38061a2a4f378817c7096522.json (using temp file C:\Users\pc-user\IdeaProjects\retoTecnico\target\site\serenity\eb6df8d3a5056f75dc1f01728a9a1a6c3215637d38061a2a4f378817c7096522.json1a82dde5-0fbf-4ee9-ae1a-7cfcc631f60d)
+18:52:02.541 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest done
+18:52:02.541 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+18:52:02.542 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 432 ms
+18:52:02.543 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@76b74e9c
+18:52:02.546 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest
+18:52:02.547 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@76b74e9c: Generating report for test outcome: Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest
+18:52:02.550 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR Registro de Sabina en la pagina de Utest in eb6df8d3a5056f75dc1f01728a9a1a6c3215637d38061a2a4f378817c7096522
+18:52:02.675 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.PackageRequirementsTagProvider - Loading requirements from package requirements at: com.certification.retoTecnico.stepdefinitions 
+18:52:05.142 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.6 class cucumber.runtime.model.FeatureLoader try Cucumber 4.2.0 
+18:52:05.144 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Found no Cucumber 4.2.0 class cucumber.runtime.model.FeatureLoader try Cucumber 2.x.x 
+18:52:05.158 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[Requirement{name='Registrar usuario en la pagina de Utest', type='feature' parent = 'null', cardNumber='null'}]
+18:52:05.228 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome Registro de Sabina en la pagina de Utest-[]: Optional[Requirement{name='Registrar usuario en la pagina de Utest', type='feature' parent = 'null', cardNumber='null'}]
+18:52:05.319 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome Registro de Sabina en la pagina de Utest-[]: Optional[Requirement{name='Registrar usuario en la pagina de Utest', type='feature' parent = 'null', cardNumber='null'}]
+18:52:06.459 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest in eb6df8d3a5056f75dc1f01728a9a1a6c3215637d38061a2a4f378817c7096522.html in directory target\site\serenity  
+18:52:06.671 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in eb6df8d3a5056f75dc1f01728a9a1a6c3215637d38061a2a4f378817c7096522.html
+18:52:10.503 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report eb6df8d3a5056f75dc1f01728a9a1a6c3215637d38061a2a4f378817c7096522.html in 3833 ms
+18:52:10.505 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Registrar usuario en la pagina de Utest:Registro de Sabina en la pagina de Utest done
+18:52:10.505 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+18:52:10.506 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 7962 ms
+
+1 Scenarios (?[33m1 undefined?[0m)
+3 Steps (?[33m3 undefined?[0m)
+0m4,392s
+
+
+You can implement missing steps with the snippets below:
+
+
+@Given("^Sabina quiere registrarse en la pagina de Utest$")
+public void sabinaQuiereRegistrarseEnLaPaginaDeUtest() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^ingrese toda la información requerida$")
+public void ingreseTodaLaInformaciónRequerida() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^se completara el registro de manera exitosa$")
+public void seCompletaraElRegistroDeManeraExitosa() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

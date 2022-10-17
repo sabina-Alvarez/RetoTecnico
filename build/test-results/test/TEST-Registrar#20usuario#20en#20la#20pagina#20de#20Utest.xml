@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Registrar usuario en la pagina de Utest" tests="1" skipped="1" failures="0" errors="0" timestamp="2022-10-16T23:51:59" hostname="DESKTOP-U2GSIHD" time="0.3">
+  <properties/>
+  <testcase name="Registro de Sabina en la pagina de Utest" classname="Registrar usuario en la pagina de Utest" time="0.3">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[18:51:59.675 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+18:51:59.798 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Registro de Sabina en la pagina de Utest
+---------------------------------------------------------------------------------
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

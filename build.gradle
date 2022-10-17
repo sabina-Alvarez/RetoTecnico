@@ -1,0 +1,23 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'junit:junit:4.12'
+    implementation 'net.serenity-bdd:serenity-core:2.1.2'
+    implementation 'net.serenity-bdd:serenity-cucumber:1.9.51'
+    implementation 'net.serenity-bdd:serenity-screenplay:2.0.82'
+    implementation 'net.serenity-bdd:serenity-screenplay-webdriver:2.0.82'
+    implementation 'org.seleniumhq.selenium:selenium-server:3.14.0:'
+    testRuntimeOnly "ch.qos.logback:logback-classic:1.2.5"
+
+
+
+}
